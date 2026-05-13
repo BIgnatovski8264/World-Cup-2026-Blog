@@ -11,5 +11,5 @@
 ## GitHub Pages
 1. Качи проекта в GitHub репозитори
 2. Settings → Pages → main branch → / (root)
-3. Сайтът е на: [https://USERNAME.github.io/REPO-NAME](https://bignatovski8264.github.io/World-Cup-2026-Blog/)
+3. Сайтът е на: [https://USERNAME.github.io/REPO-NAME](https://bignatovski8264.github.io/World-Cup-2026-Blog/) 
 
